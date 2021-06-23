@@ -463,6 +463,7 @@ Os diferenciais competitivos nas operações logísticas são:
 Prazo | Atividade
 ------|----------
 23/06/2021|[**Estudos Autônomos** - Nível de serviço logístico](https://retaoliveira.github.io/places/courses/log/est_1/)
+28/06/2021|[**Estudos Autônomos** - KPI](https://retaoliveira.github.io/places/courses/log/est_2/)
 28/06/2021|[**Projeto 1**](https://retaoliveira.github.io/places/courses/log/project1/)
 Sem entrega|https://rpubs.com/retaoliveira/log1
 Sem entrega|Revisitar a apresentação de hoje
