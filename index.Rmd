@@ -460,31 +460,13 @@ Os diferenciais competitivos nas operações logísticas são:
 
 ## Atividades da semana
 
-- Atividade da semana passada   
-    - Indicadores de desempenho x percepção do cliente   
-    - logística reversa   
-
-- Projeto 1
-
----
-
-class: center, middle
-
-.larger[
-**DÚVIDAS?**
-]
-
-
-
-class:
-
-## Atividades da semana
-
-- [**Projeto 1**](https://retaoliveira.github.io/places/courses/log/project1/)
-- [**Estudos Autônomos** - Nível de serviço logístico](https://retaoliveira.github.io/places/courses/log/est_1/)
-- Revisitar a apresentação de hoje
-- Ler e explorar a documentação no site referentes à **UNIDADE 1**. 
-
+Prazo | Atividade
+------|----------
+23/06/2021|[**Estudos Autônomos** - Nível de serviço logístico](https://retaoliveira.github.io/places/courses/log/est_1/)
+28/06/2021|[**Projeto 1**](https://retaoliveira.github.io/places/courses/log/project1/)
+Sem entrega|https://rpubs.com/retaoliveira/log1
+Sem entrega|Revisitar a apresentação de hoje
+Sem entrega|Ler e explorar a documentação no site referentes às **UNIDADE 1** e **UNIDADE 2** . 
 
 ---
 
